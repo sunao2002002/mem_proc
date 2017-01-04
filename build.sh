@@ -11,4 +11,4 @@ mkdir -p "$BUILD_DIR"
 cd "$BUILD_DIR"
 cmake ..
 make 
-echo "build finished"
+echo "build finished on branch test2-2"
