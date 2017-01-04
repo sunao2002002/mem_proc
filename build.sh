@@ -1,5 +1,4 @@
 #!/bin/bash 
-
 set -e 
 PWD=$(pwd)
 BUILD_DIR=${PWD}/output
