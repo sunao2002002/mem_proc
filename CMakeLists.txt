@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.6)
 PROJECT (mem_proc)
 file(GLOB SOURCES "${PROJECT_SOURCE_DIR}/libpagemap/*.c")
 add_definitions (
