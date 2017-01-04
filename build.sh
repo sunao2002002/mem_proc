@@ -12,3 +12,4 @@ cd "$BUILD_DIR"
 cmake ..
 make 
 echo "build finished on branch test2-2"
+echo "test stash"
